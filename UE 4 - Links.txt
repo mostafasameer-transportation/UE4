@@ -1,0 +1,6 @@
+https://github.com/asap-report/carla/tree/racetrack/PythonClient/racetrack
+https://github.com/udacity/self-driving-car-sim
+https://discord.com/channels/444206285647380482/445495595340136449
+https://carla.org/posts/
+https://docs.unrealengine.com/5.3/en-US/blueprints-visual-scripting-in-unreal-engine/
+https://docs.unrealengine.com/5.3/en-US/blueprint-basic-user-guide-in-unreal-engine/
